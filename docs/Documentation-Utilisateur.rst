@@ -1,21 +1,68 @@
 ======================================================================
-Module 233 : Protéger et assurer la maintenance d'un réseau
+Documentation Utilisateurs
 ======================================================================
 
 
-Formation des collaborateurs
+Samsung Flip 2 65"
 =============================
 
-De nos jours, la formation des collaborateurs d'une entreprise à la sécurité informatique est primordiale.
-Au premier trimestre 2023, le nombre de cyberattaques a augmenté de 20% par rapport à la même période de l'année précédentes.
+Le Samsung Flip 2 est à disposition dans la salle de conférence du 1er étage pour les conférences et les présentations interactives d'équipes.
 
-Cela va sans dire, la cybersécurité doit faire partie de notre quotidien, qu'il soit professionnel ou personnel.
 
-Outils
------------
+Navigation sur le Samsung FLip 2
+-------------------------------------
 
-Formation
-^^^^^^^^^^^
+
+Allumer / Éteindre 
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Une télécommande Samsung est fournie avec l'écran. Il suffit donc d'insérer les piles dans le bon sens et d'appuyer sur le bouton en haut à droite (bouton rouge "Power") pour l'allumer ou l'éteindre.
+
+
+
+Choix de la source
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Pour changer la source du signal, la télécommande Samsung comprend un bouton "source".
+Appuyer sur ce bouton affichera un menu dans lequel seront toutes les sources disponibles.
+
+Il suffira de naviguer à l'aide des flèches présentes au centre de la télécommande pour choisir la source désirée et la sélectionner.
+
+
+Diffusion d'écran
+---------------------
+
+La diffusion de votre écran de pc est possible à travers plusieurs méthodes.
+
+
+HDMI
+^^^^^^
+
+Cette méthode consiste à brancher un câble HDMI de votre PC jusqu'au port HDMI IN de l'écran Samsung Flip 2.
+Voici un schéma pour faciliter la compréhension :
+
+.. image:: raw.....
+
+DP (Display Port)
+^^^^^^^^^^^^^^^^^^^^
+
+Alternative à l'HDMI, le DP comprend les mêmes fonctionnalités. Il suffit seulement de brancher le câble sur le port DP IN adéquat.
+Voici un schéma pour faciliter la compréhension : 
+
+Sans-fil
+^^^^^^^^^^^^
+
+Le Samsung Flip 2 possède les technologies nécessaires permettant à la diffusion de votre écran de PC sans-fil.
+Sur Windows, il suffira donc d'effecteur la commande Windows+K et de cliquer sur le nom de l'écran pour démarrer la diffusion.
+
+Il est tout à fait possible d'intégrer des périphériques Bluetooth tels qu'un clavier et une souris pour prendre le contrôle de l'écran.
+
+
+
+
+
+
+
 
 Pour cela, des outils plus performants les uns que les autres nous permettent d'établir des campagnes de formation ainsi que des campagnes de phishing !
 Certaines entreprises sont même spécialisées dans le domaine, allant jusqu'à infiltrer les entreprises physiquement comme s'ils étaient du personnel légitime.
