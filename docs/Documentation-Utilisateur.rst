@@ -211,4 +211,5 @@ Vous trouverez ci-dessous des documents utiles à télécharger !
 
 :download:`Guide de montage <source/other/BN68-09730A-00_QSG_WMR_Flip_EU_L25_190528.0.pdf>`
 
-Site web de Samsung `Samsung<https://www.samsung.com/ch_fr/business/smart-signage/digital-flipchart/interactive-display-wmr-series-lh55wmrwbgcxen/>`_.
+
+Site web de `Samsung <https://www.samsung.com/ch_fr/business/smart-signage/digital-flipchart/interactive-display-wmr-series-lh55wmrwbgcxen/>`_.
