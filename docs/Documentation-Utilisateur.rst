@@ -214,3 +214,14 @@ Vous trouverez ci-dessous des documents utiles à télécharger !
 
 
 Site web de `Samsung <https://www.samsung.com/ch_fr/business/smart-signage/digital-flipchart/interactive-display-wmr-series-lh55wmrwbgcxen/>`_.
+
+
+
+Contact 
+---------
+
+- Arthur LE GUENNEC
+- Speedlink SA 
+- 022 320 34 34
+- a.leguennec@speedlinksa.ch
+- 12 rue de la Hesse
